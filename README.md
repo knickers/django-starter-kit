@@ -11,3 +11,7 @@ docker compose up -d
 ```shell
 ./run
 ```
+
+```shell
+http://localhost
+```
