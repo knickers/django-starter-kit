@@ -9,7 +9,11 @@ docker compose up -d
 ```
 
 ```shell
-./run
+./init.sh
+```
+
+```shell
+./run.sh
 ```
 
 ```shell
