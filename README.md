@@ -9,5 +9,10 @@ docker compose up -d
 ```
 
 ```shell
+./shell python -V
+./shell python -m django --version
+```
+
+```shell
 http://localhost
 ```
