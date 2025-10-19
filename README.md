@@ -1,6 +1,10 @@
 # Django starter kit
 
 ```shell
+touch .env
+```
+
+```shell
 ./setup.sh
 ```
 
