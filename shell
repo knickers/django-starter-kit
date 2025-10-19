@@ -1,4 +1,4 @@
 #!/bin/bash
 set -euo pipefail
 
-docker compose exec -T python "$@"
+docker compose exec -T server "$@"
