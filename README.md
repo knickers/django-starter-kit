@@ -1,4 +1,4 @@
-#Django starter kit
+# Django starter kit
 
 ```shell
 docker compose up -d
