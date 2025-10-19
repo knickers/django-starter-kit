@@ -1,19 +1,11 @@
 # Django starter kit
 
 ```shell
+./setup.sh
+```
+
+```shell
 docker compose up -d
-```
-
-```shell
-./shell django-admin startproject app .
-```
-
-```shell
-./init.sh
-```
-
-```shell
-./run.sh
 ```
 
 ```shell
